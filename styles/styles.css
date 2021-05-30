@@ -1,0 +1,41 @@
+.btn-success{
+    background: black;
+    outline: green;
+    color: green;
+}
+.text{
+    color: red
+}
+.img-circle{
+    height: 80px;
+    width: 80px;
+}
+.section{
+    text-align: center;
+    color: rgb(7, 7, 7);
+  
+}
+.section-title{
+    background: black;
+    color: white;
+    height: 80PX;
+   
+}
+.sub-text{
+    color: black;
+}
+.footer{
+    text-align: center;
+    background: rgb(43, 39, 39);
+    color: white;
+}
+.Jumbo{
+    color: rgb(146, 30, 30);
+    background: rgb(37, 35, 35);
+}
+.marquees{
+    background: rgb(5, 59, 5);
+    color: darkorange;
+    height: 40PX;
+}
+
